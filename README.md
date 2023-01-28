@@ -1,1 +1,1 @@
-chat
+Decentralized chat system
