@@ -15,3 +15,4 @@ This project is an open-source blockchain encrypted communication application th
 - Encryption algorithms: Use high-strength encryption algorithms to protect users' communication data.
 - P2P network: Use a P2P network to implement communication between users, achieving decentralization.
 - Go: Use Go as the backend server.
+
