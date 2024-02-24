@@ -1,4 +1,4 @@
-# Encrypted Communication Blockchain Project
+# Encrypted Communication Blockchain  Project
 
 This project is an open-source blockchain encrypted communication application that uses blockchain technology and encryption algorithms to ensure communication security and privacy between users. The goal of this project is to provide a secure, decentralized, and trusted means of communication, allowing users to communicate information securely.
 
